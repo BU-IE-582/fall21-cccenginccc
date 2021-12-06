@@ -8,3 +8,6 @@ You could access HW1 file from the following [link](https://github.com/BU-IE-582
 #Homework 2:
 You could access HW2 file from the following [link](https://github.com/BU-IE-582/fall21-cccenginccc/blob/f9eaf792fe2ff1a0c8c3f17b51d6c3a12af8754d/files/HW2/HW2.html)
 
+#Homework 3:
+You could access HW3 file from the following [link](https://github.com/BU-IE-582/fall21-cccenginccc/blob/5878fa6d389df2c90e5655cf2ec138bc5ffed0f9/files/HW3/IE-582-HW3.html)
+
